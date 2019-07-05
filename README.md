@@ -10,6 +10,8 @@ II.
 
 , zwanym w dalszej części Umowy „Wykonawcą”, reprezentowanym przez:
 
+III.
+
 zwanymi w dalszej części Umowy łącznie „Stronami”, a każda ze Stron indywidualnie „Stroną”
 ***
 1.Wszelkie informacje otrzymane podczas realizacji projektów są traktowane jak informacje poufne.
