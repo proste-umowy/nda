@@ -1,10 +1,15 @@
 # Umowa o zachowaniu poufności
 
 zawarta w dniu pomiędzy:
+
 I.
+
 , zwaną dalej zleceniodawcą a
+
 II.
+
 , zwanym w dalszej części Umowy „Wykonawcą”, reprezentowanym przez:
+
 zwanymi w dalszej części Umowy łącznie „Stronami”, a każda ze Stron indywidualnie „Stroną”
 
 1. Wszelkie informacje otrzymane podczas realizacji projektów są traktowane jak informacje poufne.
