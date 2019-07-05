@@ -20,5 +20,4 @@ zwanymi w dalszej części Umowy łącznie „Stronami”, a każda ze Stron ind
 umowy.
 ***
 <div align="left">Zleceniodawca</div>
- 
-<p align="right">Wykonawca</p>
+<div align="right">Wykonawca</div>
