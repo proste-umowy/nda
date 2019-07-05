@@ -20,8 +20,4 @@ zwanymi w dalszej części Umowy łącznie „Stronami”, a każda ze Stron ind
 umowy.
 ***
 Zleceniodawca 
-***
-<center>duoa</center>
-
-
-Wykonawca
+<p align="right">Wykonawca</p>
