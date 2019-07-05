@@ -17,8 +17,6 @@ zwanymi w dalszej części Umowy łącznie „Stronami”, a każda ze Stron ind
 2.Przekazanie osobom trzecim informacji o których mowa w pkt.1 stanowi naruszenie zapisów niniejszej
 umowy.
 ***
-Zleceniodawca Wykonawca
-
-<div class=pull-right>
- # fff
-</div>
+Zleceniodawca 
+***
+Wykonawca
