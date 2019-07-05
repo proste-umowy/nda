@@ -12,8 +12,7 @@ II.
 
 zwanymi w dalszej części Umowy łącznie „Stronami”, a każda ze Stron indywidualnie „Stroną”
 
-1.Wszelkie informacje otrzymane podczas realizacji projektów są traktowane jak informacje poufne.
-
+1.Wszelkie informacje otrzymane podczas realizacji projektów są traktowane jak informacje poufne.```<br>```
 2.Przekazanie osobom trzecim informacji o których mowa w pkt.1 stanowi naruszenie zapisów niniejszej
 umowy.
 
