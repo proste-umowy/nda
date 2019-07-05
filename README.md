@@ -21,4 +21,5 @@ umowy.
 ***
 Zleceniodawca 
 ***
+<center>duoa</center>
 Wykonawca
