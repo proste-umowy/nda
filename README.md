@@ -2,15 +2,19 @@
 
 zawarta w dniu pomiędzy:
 
-I.
+[zleceniodawca]
 
-, zwaną dalej zleceniodawcą a
+, zwaną dalej zleceniodawcą , reprezentowanym przez: 
 
-II.
+[zleceniodawca-rep]
+
+a
+
+[zleceniobiorca]
 
 , zwanym w dalszej części Umowy „Wykonawcą”, reprezentowanym przez:
 
-III.
+[zleceniobiorca-rep]
 
 zwanymi w dalszej części Umowy łącznie „Stronami”, a każda ze Stron indywidualnie „Stroną”
 #
