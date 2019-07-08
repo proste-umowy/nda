@@ -10,11 +10,11 @@ zawarta w dniu pomiędzy:
 
 a
 
-[zleceniobiorca]
+[wykonawca]
 
 , zwanym w dalszej części Umowy „Wykonawcą”, reprezentowanym przez:
 
-[zleceniobiorca-rep]
+[wykonawca-rep]
 
 zwanymi w dalszej części Umowy łącznie „Stronami”, a każda ze Stron indywidualnie „Stroną”
 #
@@ -23,6 +23,5 @@ zwanymi w dalszej części Umowy łącznie „Stronami”, a każda ze Stron ind
 2.Przekazanie osobom trzecim informacji o których mowa w pkt.1 stanowi naruszenie zapisów niniejszej
 umowy.
 #
-Zleceniodawca<br>
-[zleceniodawca-rep]
-<div align="right">Wykonawca</div>
+[zleceniodawca-rep]<br>
+<div align="right">[wykonawca-rep]</div>
