@@ -24,4 +24,5 @@ zwanymi w dalszej części Umowy łącznie „Stronami”, a każda ze Stron ind
 umowy.
 #
 Zleceniodawca<br>
+[zleceniodawca-rep]
 <div align="right">Wykonawca</div>
